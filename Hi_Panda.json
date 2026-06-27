@@ -1,0 +1,13 @@
+{
+  "type": "micro_wake_word",
+  "wake_word": "Hi Panda",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/clabc0808/my_ha2/main/Hi_Panda.tflite",
+      "platform": "esp32s3"
+    }
+  ],
+  "author": "custom",
+  "websiteTrained": "openWakeWord Colab",
+  "version": 1
+}
